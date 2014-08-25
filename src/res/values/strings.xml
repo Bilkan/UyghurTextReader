@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ئۇيغۇرچە تېكىست ئوقۇغۇچ</string>
+    <string name="app_name_en">Uyghur Text Reader</string>
+	<string name="settings_fflabel">خەت نۇسخىسى</string>
+	<string name="settings_fslabel">خەت چوڭلۇقى</string>
+	<string name="settings_fclabel">خەت رەڭگى</string>
+	<string name="settings_bclabel">تەگلىك رەڭگى</string>
+	<string name="settings_mlabel">بەت چۆرىسى</string>
+	<string name="settings_pslabel">ئابزاس بۆلگۈچ</string>
+	<string name="sample_1">بۇ تېكىست تەڭشەشتە پايدىلىنىش ئۈچۈن بېرىلگەن.</string>
+	<string name="sample_2">بۇنىڭدىن پايدىلىنىپ تېكىست خاسلىقىنى خالىغانچە تەڭشىيەلەيسىز!</string>
+	<string name="black">قارا</string>
+	<string name="blue">كۆك</string>
+	<string name="green">يېشىل</string>
+	<string name="red">قىزىل</string>
+	<string name="white">ئاق</string>
+	<string name="serching">ئىزدەۋاتىدۇ...</string>
+	<string name="loading">ئېچىلىۋاتىدۇ...</string>
+	<string name="settings_btn_ok">ھەئە</string>
+	<string name="settings_btn_cancel">ياق</string>
+	<string name="MenuOpen">كىتاب ئېچىش</string>
+	<string name="MenuAbout">ئىزاھات</string>
+	<string name="MenuSettings">تەڭشەك</string>
+	<string name="MenuExit">چېكىنىش</string>
+	<string name="alert">ئەسكەرتىش</string>
+	<string name="file_moved">مەزكور ھۆججەت باشقا ئورۇنغا يۆتكىۋىتېلگەن ياكى ئۆچۈرۈلگەن</string>
+	<string name="About_content">ئۇيغۇرچە تېكىست ئوقۇغۇچ 1.0.4 \n بىلكان ئېلېكترون تېخنىكا چەكلىك شىركىتى \n http://www.bilkan.net</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:id="@+id/LinearLayout01" 
+	android:layout_height="wrap_content" 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent">
+<ListView 
+	android:layout_height="wrap_content" 
+	android:id="@+id/optionlist" 
+	android:layout_width="fill_parent" />
+</LinearLayout>
+

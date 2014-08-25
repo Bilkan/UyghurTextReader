@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/lytOpen" android:background="#FFFFFF">
+<!--  
+	<TextView
+	android:id="@+id/title"
+	android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="5dp"
+    android:textSize="21dp"
+    android:gravity="right"  />
+    -->
+	<RelativeLayout 
+		android:layout_height="wrap_content" 
+		android:addStatesFromChildren="false" 
+		android:layout_width="fill_parent" 
+		android:id="@+id/lytButtons">
+		<ImageButton 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:id="@+id/ibInnerMem" 
+			android:src="@drawable/home"/>
+		<ImageButton 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:id="@+id/ibOuterMem" 
+			android:layout_toRightOf="@id/ibInnerMem" 
+			android:src="@drawable/sdcard"/>
+		<ImageButton 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:id="@+id/ibBack" 
+			android:layout_toRightOf="@id/ibOuterMem" 
+			android:src="@drawable/up"/>
+	</RelativeLayout>
+	<ListView 
+		android:layout_height="fill_parent" 
+		android:layout_width="fill_parent" 
+		android:id="@+id/lvFiles" 
+		android:textFilterEnabled="true" 
+		android:divider="#FDEEF4" 
+		android:dividerHeight="2px"/>
+</LinearLayout>
