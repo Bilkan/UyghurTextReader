@@ -4,7 +4,7 @@ Text Reader for Android devices that does not support Uyghur language.
 
 Download Link:
 
-Google Play:
+* Google Play: https://play.google.com/store/apps/details?id=net.uyghurdev.uyghurtextreader
 
-Bilkan Bazar:
+* Bilkan Bazar:
 http://bazar.bilkan.net/App.aspx?id=214
